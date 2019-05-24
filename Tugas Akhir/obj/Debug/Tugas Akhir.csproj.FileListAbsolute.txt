@@ -1,0 +1,9 @@
+c:\users\dafi ramadhan\documents\visual studio 2015\Projects\Tugas Akhir\Tugas Akhir\bin\Debug\Tugas Akhir.exe.config
+c:\users\dafi ramadhan\documents\visual studio 2015\Projects\Tugas Akhir\Tugas Akhir\bin\Debug\Tugas Akhir.exe
+c:\users\dafi ramadhan\documents\visual studio 2015\Projects\Tugas Akhir\Tugas Akhir\bin\Debug\Tugas Akhir.pdb
+c:\users\dafi ramadhan\documents\visual studio 2015\Projects\Tugas Akhir\Tugas Akhir\obj\Debug\Tugas_Akhir.Properties.Resources.resources
+c:\users\dafi ramadhan\documents\visual studio 2015\Projects\Tugas Akhir\Tugas Akhir\obj\Debug\Tugas Akhir.csproj.GenerateResource.Cache
+c:\users\dafi ramadhan\documents\visual studio 2015\Projects\Tugas Akhir\Tugas Akhir\obj\Debug\Tugas Akhir.exe
+c:\users\dafi ramadhan\documents\visual studio 2015\Projects\Tugas Akhir\Tugas Akhir\obj\Debug\Tugas Akhir.pdb
+C:\Users\Dafi Ramadhan\Documents\Visual Studio 2015\Projects\Tugas Akhir\Tugas Akhir\obj\Debug\Tugas_Akhir.Form1.resources
+C:\Users\Dafi Ramadhan\Documents\Visual Studio 2015\Projects\Tugas Akhir\Tugas Akhir\obj\Debug\Tugas_Akhir.FormLogin.resources
